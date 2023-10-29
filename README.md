@@ -1,3 +1,4 @@
 # Amazon-Sales-Analysis
-![Alt Text](sales page 12.png)
+
+![Screenshot](sales page 12.png)
 
