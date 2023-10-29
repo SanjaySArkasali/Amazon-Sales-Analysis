@@ -1,3 +1,3 @@
 # Amazon-Sales-Analysis
-![Alt Text](Trend Page 2.PNG)
+![Alt Text](sales page 1.png)
 
