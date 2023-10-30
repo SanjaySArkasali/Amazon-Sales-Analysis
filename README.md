@@ -30,7 +30,7 @@ solution are available in .ipynb file
 
 [Power Bi Dashboard Link](https://app.powerbi.com/view?r=eyJrIjoiN2E5MDkzNDItMDA1OS00MTM0LWE5NGQtODFhNGQ4MDk0YzZmIiwidCI6ImJmNDE4ZmE0LWM3NzQtNDViMS05YWZiLTM0NjgyNGVlYWZlMSIsImMiOjEwfQ%3D%3D&pageName=ReportSection)
 
-# Preview
+# Preview (Screenshots)
 
 #### Sales Analysis
 ![sales page 1](https://github.com/SanjaySArkasali/Amazon-Sales-Analysis/assets/121194268/e31ab361-cdaa-457b-a895-b8a01477016d)
