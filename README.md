@@ -1,4 +1,5 @@
-# Amazon-Sales-Analysis
+# Amazon-Sales-Analysis 📈
+
 ! This data is taken from amazon seller central from gst reports
 
 ## Client Requirement for this project
