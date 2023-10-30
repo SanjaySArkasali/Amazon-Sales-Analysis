@@ -23,7 +23,7 @@ may not have all the required pincode relation so we had to use another logic wi
 >>    
 >> - The picode data was downloaded from India Post website. i will give that file in repository.
 >>    
->> - I have also provided the pincode realation csv file for the casees where the pincode were not found.
+>> - I have also provided the pincode relation csv file for the casees where the pincode were not found.
 
 solution are available in .ipynb file 
 
